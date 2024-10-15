@@ -1,0 +1,15 @@
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task7 - 15.10.2024\StringFormatting\StringFormatting\bin\Debug\net6.0\StringFormatting.exe
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task7 - 15.10.2024\StringFormatting\StringFormatting\bin\Debug\net6.0\StringFormatting.deps.json
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task7 - 15.10.2024\StringFormatting\StringFormatting\bin\Debug\net6.0\StringFormatting.runtimeconfig.json
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task7 - 15.10.2024\StringFormatting\StringFormatting\bin\Debug\net6.0\StringFormatting.dll
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task7 - 15.10.2024\StringFormatting\StringFormatting\bin\Debug\net6.0\StringFormatting.pdb
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task7 - 15.10.2024\StringFormatting\StringFormatting\obj\Debug\net6.0\StringFormatting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task7 - 15.10.2024\StringFormatting\StringFormatting\obj\Debug\net6.0\StringFormatting.AssemblyInfoInputs.cache
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task7 - 15.10.2024\StringFormatting\StringFormatting\obj\Debug\net6.0\StringFormatting.AssemblyInfo.cs
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task7 - 15.10.2024\StringFormatting\StringFormatting\obj\Debug\net6.0\StringFormatting.csproj.CoreCompileInputs.cache
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task7 - 15.10.2024\StringFormatting\StringFormatting\obj\Debug\net6.0\StringFormatting.sourcelink.json
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task7 - 15.10.2024\StringFormatting\StringFormatting\obj\Debug\net6.0\StringFormatting.dll
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task7 - 15.10.2024\StringFormatting\StringFormatting\obj\Debug\net6.0\refint\StringFormatting.dll
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task7 - 15.10.2024\StringFormatting\StringFormatting\obj\Debug\net6.0\StringFormatting.pdb
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task7 - 15.10.2024\StringFormatting\StringFormatting\obj\Debug\net6.0\StringFormatting.genruntimeconfig.cache
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task7 - 15.10.2024\StringFormatting\StringFormatting\obj\Debug\net6.0\ref\StringFormatting.dll

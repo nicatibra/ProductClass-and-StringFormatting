@@ -1,0 +1,15 @@
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task7 - 15.10.2024\ProductInfoAndSales\ProductInfoAndSales\bin\Debug\net6.0\ProductInfoAndSales.exe
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task7 - 15.10.2024\ProductInfoAndSales\ProductInfoAndSales\bin\Debug\net6.0\ProductInfoAndSales.deps.json
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task7 - 15.10.2024\ProductInfoAndSales\ProductInfoAndSales\bin\Debug\net6.0\ProductInfoAndSales.runtimeconfig.json
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task7 - 15.10.2024\ProductInfoAndSales\ProductInfoAndSales\bin\Debug\net6.0\ProductInfoAndSales.dll
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task7 - 15.10.2024\ProductInfoAndSales\ProductInfoAndSales\bin\Debug\net6.0\ProductInfoAndSales.pdb
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task7 - 15.10.2024\ProductInfoAndSales\ProductInfoAndSales\obj\Debug\net6.0\ProductInfoAndSales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task7 - 15.10.2024\ProductInfoAndSales\ProductInfoAndSales\obj\Debug\net6.0\ProductInfoAndSales.AssemblyInfoInputs.cache
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task7 - 15.10.2024\ProductInfoAndSales\ProductInfoAndSales\obj\Debug\net6.0\ProductInfoAndSales.AssemblyInfo.cs
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task7 - 15.10.2024\ProductInfoAndSales\ProductInfoAndSales\obj\Debug\net6.0\ProductInfoAndSales.csproj.CoreCompileInputs.cache
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task7 - 15.10.2024\ProductInfoAndSales\ProductInfoAndSales\obj\Debug\net6.0\ProductInfoAndSales.sourcelink.json
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task7 - 15.10.2024\ProductInfoAndSales\ProductInfoAndSales\obj\Debug\net6.0\ProductInfoAndSales.dll
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task7 - 15.10.2024\ProductInfoAndSales\ProductInfoAndSales\obj\Debug\net6.0\refint\ProductInfoAndSales.dll
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task7 - 15.10.2024\ProductInfoAndSales\ProductInfoAndSales\obj\Debug\net6.0\ProductInfoAndSales.pdb
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task7 - 15.10.2024\ProductInfoAndSales\ProductInfoAndSales\obj\Debug\net6.0\ProductInfoAndSales.genruntimeconfig.cache
+C:\Users\nicha\OneDrive\Desktop\CodeAcademy\C#\TasksForHome\Task7 - 15.10.2024\ProductInfoAndSales\ProductInfoAndSales\obj\Debug\net6.0\ref\ProductInfoAndSales.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\C#\\TasksForHome\\Task7 - 15.10.2024\\StringFormatting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF39AF8-0986-4902-BD9B-343AE1A57358}|StringFormatting\\StringFormatting.csproj|c:\\users\\nicha\\onedrive\\desktop\\codeacademy\\c#\\tasksforhome\\task7 - 15.10.2024\\stringformatting\\stringformatting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF39AF8-0986-4902-BD9B-343AE1A57358}|StringFormatting\\StringFormatting.csproj|solutionrelative:stringformatting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\C#\\TasksForHome\\Task7 - 15.10.2024\\StringFormatting\\StringFormatting\\Program.cs",
+              "RelativeDocumentMoniker": "StringFormatting\\Program.cs",
+              "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\C#\\TasksForHome\\Task7 - 15.10.2024\\StringFormatting\\StringFormatting\\Program.cs",
+              "RelativeToolTip": "StringFormatting\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T06:59:02.412Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
